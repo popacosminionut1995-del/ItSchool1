@@ -1,7 +1,3 @@
-import java.awt.*;
-
-import static java.awt.Color.blue;
-
 public class HomeWork {
     static void main() {
         System.out.println("Tema 1");

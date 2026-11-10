@@ -1,4 +1,4 @@
-import java.util.Locale;
+package Session2;
 
 public class FirstClass {
     static void main() {
