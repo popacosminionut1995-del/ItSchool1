@@ -1,11 +1,11 @@
-public class Arithmetics {
+public class ArithmeticOperators {
 
     static void main() {
 
         int nr1 = 21;
         int nr2 = 6;
         int nr3 = 3;
-        int nr4 = 4;
+        int nr4 = 1;
 
         int rez1 = nr1 - nr2 / nr3;
         System.out.println(rez1);

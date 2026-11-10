@@ -1,5 +1,6 @@
 public class HomeWork {
     static void main() {
+
         System.out.println("Tema 1");
         String nume = "Cosmin";
         System.out.println("Numele meu este:" + nume);
